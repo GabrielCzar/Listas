@@ -1,8 +1,8 @@
 #ifndef SLIST_H
 #define SLIST_H
+
 #include <iostream>
 #include <stack>
-
 #include "SNode.h"
 
 using namespace std;
