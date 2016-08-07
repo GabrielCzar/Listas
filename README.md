@@ -4,7 +4,7 @@ Vamos trabalhar com implementações de listas simples e duplamente encadeadas, 
 
 Compreender o funcionamento das **listas simples** é muito importante para nos preparar para trabalhar com árvores.
 
-Você pode implementar os métodos de forma iterativa ou recursiva. Esteja atento à definição do trabalho feita pelo seu professor.
+Você pode implementar os métodos de forma iterativa ou recursiva.
 
 1. Listas Simples
 ----------------
